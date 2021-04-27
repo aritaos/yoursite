@@ -20,7 +20,7 @@ Greetings. Enjoy your stay!
 
 Here is an owl:
 
-![owl]("images/owl.png")
+![owl](/images/owl.png)
 
 
 
