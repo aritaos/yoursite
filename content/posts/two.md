@@ -18,4 +18,10 @@ series = ["humanity"]
 
 Greetings. Enjoy your stay!
 
+Here is an owl:
+
+![owl](images/owl.png)
+
+
+
 -End of Post- 
