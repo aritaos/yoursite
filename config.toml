@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Your Awesome Site"
+title = "True Site"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -18,7 +18,7 @@ keywords = "site, all"
 info = "Truth is Power"
 # avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
-footerContent = "A Website for All."
+footerContent = "A True Website for All."
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = false
